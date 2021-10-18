@@ -1,0 +1,29 @@
+.row{
+    margin-left: 20px;
+    color: black;
+    background-color: black;
+}
+
+.posters{
+  
+    margin-left: 60px;
+    background-color: black;
+}
+
+.posters::-webkit-scrollbar{
+    display: none;
+    background-color: black;
+}
+
+
+.poster{
+    max-height: 250px;
+    margin-right: 10px;
+    background-color: black;
+
+}
+.SMALLposter{
+    max-height: 150px;
+    margin-right: 10px;
+    background-color: black;
+}
